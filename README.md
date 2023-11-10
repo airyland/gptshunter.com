@@ -1,6 +1,9 @@
 # GPTsHunter.com
 
-All indexed comments will be appreciated with a heart reaction.
+All comments containing GPT links will be automatically catalogued on GPTsHunter. The website is updated every 20 minutes.
+
+**Please do not submit politics-related GPT links.**
+
 
 ---
 
