@@ -15,6 +15,8 @@ New UI is coming soon!
 
 All comments containing GPT links will be automatically indexed on GPTsHunter. The website is updated every 20 minutes.
 
+https://chat.openai.com/g/g-hObCxT38y-the-open-source-intelligence-agency
+
 **Please do not submit politics-related GPT links.** 
 
 And remember to unsubscribe issue notifications
