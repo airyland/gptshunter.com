@@ -2,6 +2,8 @@
 
 GPTsHunter is the first and largest GPTs directory.
 
+* GPTsHunter: https://www.gptshunter.com
+
 ## Next
 
 New UI is coming soon!
