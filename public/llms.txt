@@ -1,0 +1,28 @@
+# GPTsHunter
+
+> GPTsHunter is the first and largest GPTs directory, indexing custom GPTs from the OpenAI GPT Store. The site updates every 20 minutes with newly discovered GPTs.
+
+GPTsHunter crawls and categorizes custom GPTs built on OpenAI's platform. Each GPT listing includes its name, description, category, and a direct link to use it. The site serves as a discovery engine for finding useful GPTs across categories like programming, writing, education, and more.
+
+## Pages
+
+- [Home](https://www.gptshunter.com/): Main directory page with featured and trending GPTs
+- [Blog](https://www.gptshunter.com/blog): Articles about GPTs, the GPT Store, and AI tools
+- [GPT Store Categories](https://www.gptshunter.com/gpt-store-categories): Browse GPTs by category (programming, writing, education, etc.)
+
+## Blog Posts
+
+- [Alternative to AllGPTs](https://www.gptshunter.com/blog/alternative-to-allgpts): Comparison of GPT directory alternatives
+- [Download Daily GPTs Data](https://www.gptshunter.com/blog/download-daily-gpts-data-on-gptstore): How to access GPT Store data
+- [GPTsHunt](https://www.gptshunter.com/blog/gptshunt): Overview of the GPTsHunt tool
+
+## Categories
+
+- [Programming](https://www.gptshunter.com/gpt-store-categories/programming): Code generation, debugging, and development GPTs
+- [Writing](https://www.gptshunter.com/gpt-store-categories/writing): Content creation, editing, and writing assistance GPTs
+
+## Optional
+
+- [Apply for Search API](https://forms.gle/9KgGyjVgKk8WcuU96): Access to GPTsHunter search API
+- [Become Verified Curator](https://forms.gle/VBpnhL6HgkFTveCAA): Get priority display for your GPTs
+- [Vote on Product Hunt](https://www.producthunt.com/posts/gpts-hunter): Support GPTsHunter on Product Hunt
