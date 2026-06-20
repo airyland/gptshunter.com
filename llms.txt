@@ -7,19 +7,23 @@ GPTsHunter crawls and categorizes custom GPTs built on OpenAI's platform. Each G
 ## Pages
 
 - [Home](https://www.gptshunter.com/): Main directory page with featured and trending GPTs
-- [Blog](https://www.gptshunter.com/blog): Articles about GPTs, the GPT Store, and AI tools
 - [GPT Store Categories](https://www.gptshunter.com/gpt-store-categories): Browse GPTs by category (programming, writing, education, etc.)
+- [Blog](https://www.gptshunter.com/blog): Articles about GPTs, the GPT Store, and AI tools
 
-## Blog Posts
+## GPT Listings
 
-- [Alternative to AllGPTs](https://www.gptshunter.com/blog/alternative-to-allgpts): Comparison of GPT directory alternatives
-- [Download Daily GPTs Data](https://www.gptshunter.com/blog/download-daily-gpts-data-on-gptstore): How to access GPT Store data
-- [GPTsHunt](https://www.gptshunter.com/blog/gptshunt): Overview of the GPTsHunt tool
+- Individual custom GPT detail pages under paths like `/gpt-store/<id>` (examples: https://www.gptshunter.com/gpt-store/...). These are the core content of the directory.
+- Some user profile pages under `/gpts/profile/...`
 
 ## Categories
 
 - [Programming](https://www.gptshunter.com/gpt-store-categories/programming): Code generation, debugging, and development GPTs
 - [Writing](https://www.gptshunter.com/gpt-store-categories/writing): Content creation, editing, and writing assistance GPTs
+- Additional categories (e.g. Productivity, Research, Education, Lifestyle, DALL·E and others) available via the categories page and search.
+
+## Blog
+
+- Articles about GPTs, the GPT Store, and AI tools (see /blog for current posts)
 
 ## Optional
 
