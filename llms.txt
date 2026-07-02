@@ -9,6 +9,7 @@ GPTsHunter crawls and categorizes custom GPTs built on OpenAI's platform. Each G
 - [Home](https://www.gptshunter.com/): Main directory page with featured and trending GPTs
 - [GPT Store Categories](https://www.gptshunter.com/gpt-store-categories): Browse GPTs by category (programming, writing, education, etc.)
 - [Blog](https://www.gptshunter.com/blog): Articles about GPTs, the GPT Store, and AI tools
+- [Best GPTs for Writing content pilot](https://github.com/airyland/gptshunter.com/blob/master/docs/best-gpts-for-writing.md): Task-oriented writing GPT guide draft for selecting GPTs by job instead of scanning a raw category list
 
 ## GPT Listings
 
@@ -24,6 +25,10 @@ GPTsHunter crawls and categorizes custom GPTs built on OpenAI's platform. Each G
 ## Blog
 
 - Articles about GPTs, the GPT Store, and AI tools (see /blog for current posts)
+
+## Task-Oriented Guides
+
+- [Best GPTs for Writing](https://github.com/airyland/gptshunter.com/blob/master/docs/best-gpts-for-writing.md): A pilot guide that groups writing GPTs by use case, including drafting, copywriting, editing, resumes, SEO articles, fiction, and academic writing.
 
 ## Optional
 
