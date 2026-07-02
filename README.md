@@ -8,6 +8,10 @@ GPTsHunter is the first and largest GPTs directory.
 
 New UI is coming soon!
 
+## Content pilots
+
+* [Best GPTs for Writing](docs/best-gpts-for-writing.md) - task-oriented guide based on the highest-priority research recommendation from P117008.
+
 <a target="_blank" href="https://forms.gle/9KgGyjVgKk8WcuU96">Apply to our search API →</a>  
 
 
